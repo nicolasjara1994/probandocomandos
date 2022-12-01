@@ -8,6 +8,7 @@ export const heroes = [
         id: 2,
         name: 'Spiderman',
         owner: 'Marvel'
+        
     },
     {
         id: 3,
